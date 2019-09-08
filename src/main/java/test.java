@@ -16,5 +16,12 @@ public class test {
         System.out.println("upadte xiaohua");
         System.out.println("upadte xiaoxiao");
         System.out.println("upadte zhouzhou");
+        /**
+         * update xiaoming
+         */
+        System.out.println("upadte hauhau");
+        System.out.println("upadte xiaxia");
+        System.out.println("upadte zouzuo");
+        System.out.println("upadte lele");
     }
 }
