@@ -9,6 +9,12 @@ public class test {
         System.out.println("i am storage");
         System.out.println("upadte i");
         System.out.println("upadte aaaaaaaa");
-        System.out.println("upadte fffffffffff");
+        /**
+         * upodate
+         */
+        System.out.println("upadte xiaoming");
+        System.out.println("upadte xiaohua");
+        System.out.println("upadte xiaoxiao");
+        System.out.println("upadte zhouzhou");
     }
 }
